@@ -1,2 +1,7 @@
+---
+layout: post
+title: friend
+---
+
 # Dear friend
 * I'm your best friend here.
